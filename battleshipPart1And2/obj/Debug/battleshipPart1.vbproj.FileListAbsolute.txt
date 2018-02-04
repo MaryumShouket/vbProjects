@@ -1,0 +1,11 @@
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\TemperatureConverter\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\TemperatureConverter\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\TemperatureConverter\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\TemperatureConverter\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\TemperatureConverter\WindowsApplication1\obj\Debug\battleshipPart1.vbprojResolveAssemblyReference.cache
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\TemperatureConverter\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\TemperatureConverter\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\TemperatureConverter\WindowsApplication1\obj\Debug\battleshipPart1.vbproj.GenerateResource.Cache
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\TemperatureConverter\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\TemperatureConverter\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\TemperatureConverter\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
