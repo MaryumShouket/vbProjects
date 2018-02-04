@@ -1,0 +1,10 @@
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\RollingDice\RollingDice\bin\Debug\RollingDice.exe.config
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\RollingDice\RollingDice\bin\Debug\RollingDice.exe
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\RollingDice\RollingDice\bin\Debug\RollingDice.pdb
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\RollingDice\RollingDice\bin\Debug\RollingDice.xml
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\RollingDice\RollingDice\obj\Debug\RollingDice.vbprojResolveAssemblyReference.cache
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\RollingDice\RollingDice\obj\Debug\RollingDice.Resources.resources
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\RollingDice\RollingDice\obj\Debug\RollingDice.vbproj.GenerateResource.Cache
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\RollingDice\RollingDice\obj\Debug\RollingDice.exe
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\RollingDice\RollingDice\obj\Debug\RollingDice.xml
+C:\Users\Shouket\Desktop\maryum\computer science\programming practice\RollingDice\RollingDice\obj\Debug\RollingDice.pdb
